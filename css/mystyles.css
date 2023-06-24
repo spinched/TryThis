@@ -1,0 +1,57 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background: rgb(158, 230, 250);
+}
+
+a:hover{
+    color:aliceblue;
+}
+
+a:visited{
+    color:slateblue;
+}
+
+.boldMe{
+    font-weight: bold;
+}
+
+.alignMe{
+    text-align: center;
+}
+
+.box1{
+    border-width: 1px;
+    border-style: solid;
+    border-color: blue;
+}
+
+.box2{
+    padding: 5px;
+}
+
+.box3{
+    margin: 50px;
+}
+
+.littlemargin{
+    margin: 10px;
+}
+
+.getbig{
+    font-size:x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+ 
+.pic {
+    float: right;
+    margin: 20px;
+}
+    
+.words {
+    text-align: justify;
+}
+
+.plsfix{
+    padding: 15px;
+}

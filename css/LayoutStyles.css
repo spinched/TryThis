@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(158, 230, 250);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.common{
+    background-color: #ffffff;
+    border: 2px solid rgb(192, 192, 192);
+    position: absolute;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+
+.leftmenu{
+    top: 114px;
+    left: 5px;
+    width: 100px;
+    height: 1100px;
+}
+
+.mainbody{
+    top: 114px;
+    left:114px;
+    right: 114px;
+    height: 1100px;
+}
+
+.rightmenu{
+    top: 114px;
+    right: 5px;
+    width: 100px;
+    height: 1100px;
+}
+
+.footer{
+    bottom: 0px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    position: fixed;
+}
